@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeekThreeTask</string>
+    <string name="greetings_view_text">Good Morning!</string>
+    <string name="message_button_text">MESSAGE</string>
+    <string name="follow_button_text">FOLLOW JONES</string>
+    <string name="see_more_button_text">SEE MORE</string>
+    <string name="profile_name">Jones</string>
+    <string name="location">Lagos, Nigeria</string>
+    <string name="query_hint">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
